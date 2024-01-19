@@ -1,0 +1,9 @@
+[
+    {
+        "name": "LLVM Clang with OpenMP",
+        "compilers": {
+            "C": "/opt/homebrew/Cellar/llvm/17.0.1/bin/clang",
+            "CXX": "/opt/homebrew/Cellar/llvm/17.0.1/bin/clang++"
+        }
+    }
+]
